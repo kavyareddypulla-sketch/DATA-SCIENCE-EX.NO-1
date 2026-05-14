@@ -134,7 +134,7 @@ STEP 6: Use zscore of to remove outliers
     print("The Dataset after removing the outliers")
     print(df_clean)
     ```
-     
+```
 <img width="609" height="661" alt="image" src="https://github.com/user-attachments/assets/ba1a10f0-4b06-4ab3-957f-35fc5976992a" />
 
 
