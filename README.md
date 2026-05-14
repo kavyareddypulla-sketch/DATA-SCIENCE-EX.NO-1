@@ -137,7 +137,30 @@ STEP 6: Use zscore of to remove outliers
 ```
 <img width="609" height="661" alt="image" src="https://github.com/user-attachments/assets/ba1a10f0-4b06-4ab3-957f-35fc5976992a" />
 
+<img width="609" height="236" alt="image" src="https://github.com/user-attachments/assets/1adbe2b2-132b-4079-9d1a-17b44496a60d" />
 
+<img width="672" height="449" alt="image" src="https://github.com/user-attachments/assets/cedb25e6-c14c-4f8c-b45d-a484179de58f" /> 
+
+<img width="702" height="674" alt="image" src="https://github.com/user-attachments/assets/f42db5c1-6bea-4021-8c06-4c93acd7f592" />
+
+<img width="471" height="254" alt="image" src="https://github.com/user-attachments/assets/67ab9c97-7383-4237-80ea-cc3ff5a4fb02" />
+
+<img width="635" height="59" alt="image" src="https://github.com/user-attachments/assets/8fa4dadc-060b-495b-b682-7dd1f55be09a" />
+
+<img width="806" height="397" alt="image" src="https://github.com/user-attachments/assets/69bd8701-97a4-4e81-abc5-745351cd26ae" />
+<img width="426" height="264" alt="image" src="https://github.com/user-attachments/assets/a82620f8-d46a-4f82-ab97-c0117fefb103" /> 
+
+<img width="698" height="671" alt="image" src="https://github.com/user-attachments/assets/2aeb2fb7-50b4-40f8-9426-d065a1368519" /> 
+
+<img width="565" height="882" alt="image" src="https://github.com/user-attachments/assets/8a457d27-4394-43ac-b9c5-83b85704bb7c" />
+
+<img width="604" height="580" alt="image" src="https://github.com/user-attachments/assets/71bc77d7-b4e4-436d-b5d0-853cf2a902d2" />
+
+<img width="916" height="643" alt="image" src="https://github.com/user-attachments/assets/d6b31f89-69d2-43f7-a717-1f398eeb6381" />
+
+<img width="608" height="217" alt="image" src="https://github.com/user-attachments/assets/29a18aff-a01e-451f-b601-6d757649f5a6" />
+
+<img width="605" height="521" alt="image" src="https://github.com/user-attachments/assets/f4e04c31-bc98-4824-af1d-2ec144caee88" />
             
 # Result
 THUS DATA CLEANING IS PERFORMED
